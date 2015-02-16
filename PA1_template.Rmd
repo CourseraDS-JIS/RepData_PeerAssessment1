@@ -9,7 +9,7 @@ The code below sets the global echo to true, so you can see all the code:
 
 ```{r setoptions, echo=TRUE}
 library(knitr)
-opts_chunk$set(echo=TRUE, results=TRUE)
+opts_chunk$set(echo=TRUE, eval=TRUE)
 ```
 
 Now, we'll load the data
