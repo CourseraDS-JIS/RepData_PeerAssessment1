@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research Peer Assessment 1"
-output: pdf_document
+output: word_document
 date: "Sunday, February 15, 2015"
 ---
 ## Loading and preprocessing the data
