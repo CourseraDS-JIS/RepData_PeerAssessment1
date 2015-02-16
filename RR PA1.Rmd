@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research Peer Assessment 1"
+author: "Julie I. Santos"
 date: "Sunday, February 15, 2015"
 output: html_document
 ---
@@ -18,7 +19,6 @@ fitData <- read.csv("activity.csv")
 ```
 Data description:
 The data for this project is two months of data from a personal activity monitoring device, October through November of 2012.  Includes the number of steps taken in five minute intervals each day. There are three variables in the raw data:
-
 1.  **steps**: Number of steps taken in a 5-minute interval.
 
 2.  **date**: The date of measurement, format: YYYY-MM-DD.
